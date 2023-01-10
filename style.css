@@ -1,0 +1,26 @@
+h2.titulo {
+background-color:beige;
+font-weight: bold;
+}
+
+pre.verde {
+    background-color: lawngreen;
+   
+}
+
+div.naranja {
+    background-color: orange;
+}
+
+h3.negrita {
+    font-weight: bold;
+}
+
+span.sub {
+    color: blueviolet;
+    background-color: yellow;
+}
+
+pre.azul {
+    background-color: blue;
+}

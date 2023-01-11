@@ -1,11 +1,12 @@
-h2.titulo {
+p.titulo {
 background-color:beige;
 font-weight: bold;
+text-align: center;
 }
 
-pre.verde {
+main.verde {
     background-color: lawngreen;
-   
+   text-align: center;
 }
 
 div.naranja {
@@ -19,8 +20,16 @@ h3.negrita {
 span.sub {
     color: blueviolet;
     background-color: yellow;
+    
 }
 
 pre.azul {
     background-color: blue;
+    text-align: center;
+}
+
+span.video {
+    block
+    width: 600px;
+    height: 450px;
 }
